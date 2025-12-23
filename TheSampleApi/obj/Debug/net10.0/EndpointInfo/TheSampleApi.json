@@ -35,7 +35,34 @@
     "/courses": {
       "get": {
         "tags": [
-          "TheSampleApi"
+          "CourseEndpoints"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/courses/{id}": {
+      "get": {
+        "tags": [
+          "CourseEndpoints"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "pattern": "^-?(?:0|[1-9]\\d*)$",
+              "type": [
+                "integer",
+                "string"
+              ],
+              "format": "int32"
+            }
+          }
         ],
         "responses": {
           "200": {
@@ -48,6 +75,9 @@
   "tags": [
     {
       "name": "TheSampleApi"
+    },
+    {
+      "name": "CourseEndpoints"
     }
   ]
 }

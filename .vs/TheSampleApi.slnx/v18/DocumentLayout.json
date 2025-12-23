@@ -3,28 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\alfonce.yano\\OneDrive - Aga Khan University\\Desktop\\NB\\TheSampleApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{916858A6-0313-C8D3-48B3-50334DA67A54}|TheSampleApi\\TheSampleApi.csproj|c:\\users\\alfonce.yano\\onedrive - aga khan university\\desktop\\nb\\thesampleapi\\thesampleapi\\data\\coursedata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{916858A6-0313-C8D3-48B3-50334DA67A54}|TheSampleApi\\TheSampleApi.csproj|solutionrelative:thesampleapi\\data\\coursedata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{916858A6-0313-C8D3-48B3-50334DA67A54}|TheSampleApi\\TheSampleApi.csproj|c:\\users\\alfonce.yano\\onedrive - aga khan university\\desktop\\nb\\thesampleapi\\thesampleapi\\models\\coursemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{916858A6-0313-C8D3-48B3-50334DA67A54}|TheSampleApi\\TheSampleApi.csproj|solutionrelative:thesampleapi\\models\\coursemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{916858A6-0313-C8D3-48B3-50334DA67A54}|TheSampleApi\\TheSampleApi.csproj|c:\\users\\alfonce.yano\\onedrive - aga khan university\\desktop\\nb\\thesampleapi\\thesampleapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{916858A6-0313-C8D3-48B3-50334DA67A54}|TheSampleApi\\TheSampleApi.csproj|solutionrelative:thesampleapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{916858A6-0313-C8D3-48B3-50334DA67A54}|TheSampleApi\\TheSampleApi.csproj|c:\\users\\alfonce.yano\\onedrive - aga khan university\\desktop\\nb\\thesampleapi\\thesampleapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{916858A6-0313-C8D3-48B3-50334DA67A54}|TheSampleApi\\TheSampleApi.csproj|solutionrelative:thesampleapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{916858A6-0313-C8D3-48B3-50334DA67A54}|TheSampleApi\\TheSampleApi.csproj|c:\\users\\alfonce.yano\\onedrive - aga khan university\\desktop\\nb\\thesampleapi\\thesampleapi\\endpoints\\courseendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{916858A6-0313-C8D3-48B3-50334DA67A54}|TheSampleApi\\TheSampleApi.csproj|solutionrelative:thesampleapi\\endpoints\\courseendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{916858A6-0313-C8D3-48B3-50334DA67A54}|TheSampleApi\\TheSampleApi.csproj|c:\\users\\alfonce.yano\\onedrive - aga khan university\\desktop\\nb\\thesampleapi\\thesampleapi\\endpoints\\rootendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{916858A6-0313-C8D3-48B3-50334DA67A54}|TheSampleApi\\TheSampleApi.csproj|solutionrelative:thesampleapi\\endpoints\\rootendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,79 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Coursedata.json",
-              "DocumentMoniker": "C:\\Users\\alfonce.yano\\OneDrive - Aga Khan University\\Desktop\\NB\\TheSampleApi\\TheSampleApi\\Data\\Coursedata.json",
-              "RelativeDocumentMoniker": "TheSampleApi\\Data\\Coursedata.json",
-              "ToolTip": "C:\\Users\\alfonce.yano\\OneDrive - Aga Khan University\\Desktop\\NB\\TheSampleApi\\TheSampleApi\\Data\\Coursedata.json",
-              "RelativeToolTip": "TheSampleApi\\Data\\Coursedata.json",
-              "ViewState": "AgIAAI8BAAAAAAAAAAAAAJIBAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-23T12:04:11.328Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CourseModel.cs",
-              "DocumentMoniker": "C:\\Users\\alfonce.yano\\OneDrive - Aga Khan University\\Desktop\\NB\\TheSampleApi\\TheSampleApi\\Models\\CourseModel.cs",
-              "RelativeDocumentMoniker": "TheSampleApi\\Models\\CourseModel.cs",
-              "ToolTip": "C:\\Users\\alfonce.yano\\OneDrive - Aga Khan University\\Desktop\\NB\\TheSampleApi\\TheSampleApi\\Models\\CourseModel.cs",
-              "RelativeToolTip": "TheSampleApi\\Models\\CourseModel.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T12:00:48.574Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\alfonce.yano\\OneDrive - Aga Khan University\\Desktop\\NB\\TheSampleApi\\TheSampleApi\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "TheSampleApi\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\alfonce.yano\\OneDrive - Aga Khan University\\Desktop\\NB\\TheSampleApi\\TheSampleApi\\Properties\\launchSettings.json",
-              "RelativeToolTip": "TheSampleApi\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-23T11:53:37.526Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\alfonce.yano\\OneDrive - Aga Khan University\\Desktop\\NB\\TheSampleApi\\TheSampleApi\\Program.cs",
-              "RelativeDocumentMoniker": "TheSampleApi\\Program.cs",
-              "ToolTip": "C:\\Users\\alfonce.yano\\OneDrive - Aga Khan University\\Desktop\\NB\\TheSampleApi\\TheSampleApi\\Program.cs",
-              "RelativeToolTip": "TheSampleApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T11:52:29.366Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "RootEndpoints.cs",
-              "DocumentMoniker": "C:\\Users\\alfonce.yano\\OneDrive - Aga Khan University\\Desktop\\NB\\TheSampleApi\\TheSampleApi\\EndPoints\\RootEndpoints.cs",
-              "RelativeDocumentMoniker": "TheSampleApi\\EndPoints\\RootEndpoints.cs",
-              "ToolTip": "C:\\Users\\alfonce.yano\\OneDrive - Aga Khan University\\Desktop\\NB\\TheSampleApi\\TheSampleApi\\EndPoints\\RootEndpoints.cs",
-              "RelativeToolTip": "TheSampleApi\\EndPoints\\RootEndpoints.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T11:48:32.957Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "CourseEndpoints.cs",
               "DocumentMoniker": "C:\\Users\\alfonce.yano\\OneDrive - Aga Khan University\\Desktop\\NB\\TheSampleApi\\TheSampleApi\\EndPoints\\CourseEndpoints.cs",
               "RelativeDocumentMoniker": "TheSampleApi\\EndPoints\\CourseEndpoints.cs",
               "ToolTip": "C:\\Users\\alfonce.yano\\OneDrive - Aga Khan University\\Desktop\\NB\\TheSampleApi\\TheSampleApi\\EndPoints\\CourseEndpoints.cs",
               "RelativeToolTip": "TheSampleApi\\EndPoints\\CourseEndpoints.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwAkAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T11:43:28.667Z",
+              "WhenOpened": "2025-12-23T12:36:14.564Z",
               "EditorCaption": ""
             }
           ]

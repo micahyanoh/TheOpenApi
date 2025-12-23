@@ -13,6 +13,7 @@ app.UseOpenApi();
 app.UseHttpsRedirection();
 
 app.AddRootEndpoints();
+app.AddCourseEndpoints();
 
 
 app.Run();

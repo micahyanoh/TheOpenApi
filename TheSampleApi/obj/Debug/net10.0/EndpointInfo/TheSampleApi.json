@@ -31,6 +31,18 @@
           }
         }
       }
+    },
+    "/courses": {
+      "get": {
+        "tags": [
+          "TheSampleApi"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
     }
   },
   "tags": [

@@ -16,5 +16,21 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "TheSampleApi.EndPoints.CourseEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CAddCourseEndpoints\u003Eb__0_0",
+    "RelativePath": "courses",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
   }
 ]

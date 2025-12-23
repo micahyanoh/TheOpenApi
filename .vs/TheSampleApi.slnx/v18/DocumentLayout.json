@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alfonce.yano\\OneDrive - Aga Khan University\\Desktop\\NB\\WindowForms\\TheSampleApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D751AE9-F957-4BB0-B734-F5885D8D75F8}|TheSampleApi\\TheSampleApi.csproj|c:\\users\\alfonce.yano\\onedrive - aga khan university\\desktop\\nb\\windowforms\\thesampleapi\\thesampleapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D751AE9-F957-4BB0-B734-F5885D8D75F8}|TheSampleApi\\TheSampleApi.csproj|solutionrelative:thesampleapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D751AE9-F957-4BB0-B734-F5885D8D75F8}|TheSampleApi\\TheSampleApi.csproj|c:\\users\\alfonce.yano\\onedrive - aga khan university\\desktop\\nb\\windowforms\\thesampleapi\\thesampleapi\\endpoints\\rootendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D751AE9-F957-4BB0-B734-F5885D8D75F8}|TheSampleApi\\TheSampleApi.csproj|solutionrelative:thesampleapi\\endpoints\\rootendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D751AE9-F957-4BB0-B734-F5885D8D75F8}|TheSampleApi\\TheSampleApi.csproj|c:\\users\\alfonce.yano\\onedrive - aga khan university\\desktop\\nb\\windowforms\\thesampleapi\\thesampleapi\\startup\\openapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D751AE9-F957-4BB0-B734-F5885D8D75F8}|TheSampleApi\\TheSampleApi.csproj|solutionrelative:thesampleapi\\startup\\openapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D751AE9-F957-4BB0-B734-F5885D8D75F8}|TheSampleApi\\TheSampleApi.csproj|c:\\users\\alfonce.yano\\onedrive - aga khan university\\desktop\\nb\\windowforms\\thesampleapi\\thesampleapi\\startup\\dependenciesconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D751AE9-F957-4BB0-B734-F5885D8D75F8}|TheSampleApi\\TheSampleApi.csproj|solutionrelative:thesampleapi\\startup\\dependenciesconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RootEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\alfonce.yano\\OneDrive - Aga Khan University\\Desktop\\NB\\WindowForms\\TheSampleApi\\TheSampleApi\\EndPoints\\RootEndpoints.cs",
+              "RelativeDocumentMoniker": "TheSampleApi\\EndPoints\\RootEndpoints.cs",
+              "ToolTip": "C:\\Users\\alfonce.yano\\OneDrive - Aga Khan University\\Desktop\\NB\\WindowForms\\TheSampleApi\\TheSampleApi\\EndPoints\\RootEndpoints.cs",
+              "RelativeToolTip": "TheSampleApi\\EndPoints\\RootEndpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T09:15:33.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DependenciesConfig.cs",
+              "DocumentMoniker": "C:\\Users\\alfonce.yano\\OneDrive - Aga Khan University\\Desktop\\NB\\WindowForms\\TheSampleApi\\TheSampleApi\\Startup\\DependenciesConfig.cs",
+              "RelativeDocumentMoniker": "TheSampleApi\\Startup\\DependenciesConfig.cs",
+              "ToolTip": "C:\\Users\\alfonce.yano\\OneDrive - Aga Khan University\\Desktop\\NB\\WindowForms\\TheSampleApi\\TheSampleApi\\Startup\\DependenciesConfig.cs",
+              "RelativeToolTip": "TheSampleApi\\Startup\\DependenciesConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T09:09:25.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OpenApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\alfonce.yano\\OneDrive - Aga Khan University\\Desktop\\NB\\WindowForms\\TheSampleApi\\TheSampleApi\\Startup\\OpenApiConfig.cs",
+              "RelativeDocumentMoniker": "TheSampleApi\\Startup\\OpenApiConfig.cs",
+              "ToolTip": "C:\\Users\\alfonce.yano\\OneDrive - Aga Khan University\\Desktop\\NB\\WindowForms\\TheSampleApi\\TheSampleApi\\Startup\\OpenApiConfig.cs",
+              "RelativeToolTip": "TheSampleApi\\Startup\\OpenApiConfig.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T08:55:12.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alfonce.yano\\OneDrive - Aga Khan University\\Desktop\\NB\\WindowForms\\TheSampleApi\\TheSampleApi\\Program.cs",
+              "RelativeDocumentMoniker": "TheSampleApi\\Program.cs",
+              "ToolTip": "C:\\Users\\alfonce.yano\\OneDrive - Aga Khan University\\Desktop\\NB\\WindowForms\\TheSampleApi\\TheSampleApi\\Program.cs",
+              "RelativeToolTip": "TheSampleApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T08:11:12.831Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
